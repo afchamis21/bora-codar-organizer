@@ -1,0 +1,16 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "coat"
+  },
+  "name": {
+    "__TYPE__": "FieldContent",
+    "value": "symbol",
+    "type": "Text"
+  },
+  "url": {
+    "__TYPE__": "FieldContent",
+    "value": "hair",
+    "type": "Text"
+  }
+}
