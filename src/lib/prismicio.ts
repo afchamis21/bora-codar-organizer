@@ -9,7 +9,12 @@ export const boraCodarOrganizer = prismic.getRepositoryName(sm.apiEndpoint)
 
 // Update the routes array to match your project's route structure
 /** @type {prismic.ClientConfig['routes']} **/
-const routes = []
+const routes = [
+  {
+    type: 'project',
+    path: '/',
+  },
+]
 
 /**
  * Creates a Prismic client for the project's repository. The client is used to
