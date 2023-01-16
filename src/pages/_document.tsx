@@ -5,6 +5,10 @@ export default function Document() {
   return (
     <Html lang="pt-bt">
       <Head>
+        <meta
+          name="description"
+          content="Links para os projetos codados no boraCodar.dev"
+        />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
